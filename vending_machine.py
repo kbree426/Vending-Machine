@@ -1,3 +1,13 @@
+# This vending machine program will greet the user and 
+# offer a menu of available selections based on the 
+# items set-up by the programmer. Each item will have 
+# information pertaining to its name, price, and item code
+# stored within the program. It will collect
+# an input for the users selection of item and provide the
+# price. The user will input a dollar amount
+# for item and the program will respond based on the amount input. 
+
+
 
 
 # set-up Item class 
